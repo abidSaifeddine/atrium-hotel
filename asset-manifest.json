@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/atrium-hotel/static/css/main.7c5fca8a.css",
+    "main.js": "/atrium-hotel/static/js/main.a5a18667.js",
+    "static/js/787.93188b83.chunk.js": "/atrium-hotel/static/js/787.93188b83.chunk.js",
+    "static/media/hero_3.jpg": "/atrium-hotel/static/media/hero_3.3cb6f6b08e7ec8cae611.jpg",
+    "static/media/hero_4.jpg": "/atrium-hotel/static/media/hero_4.4036e89304696244b469.jpg",
+    "static/media/slider-1.jpg": "/atrium-hotel/static/media/slider-1.63346a887ba8dc7d051b.jpg",
+    "static/media/localisation.webp": "/atrium-hotel/static/media/localisation.bf15b304b8984316f743.webp",
+    "index.html": "/atrium-hotel/index.html",
+    "main.7c5fca8a.css.map": "/atrium-hotel/static/css/main.7c5fca8a.css.map",
+    "main.a5a18667.js.map": "/atrium-hotel/static/js/main.a5a18667.js.map",
+    "787.93188b83.chunk.js.map": "/atrium-hotel/static/js/787.93188b83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5fca8a.css",
+    "static/js/main.a5a18667.js"
+  ]
+}
